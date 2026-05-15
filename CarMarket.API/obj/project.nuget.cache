@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y8b7o4pc8dQ=",
+  "success": true,
+  "projectFilePath": "/Users/astech/KleaFinal/CarMarket.API/CarMarket.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/astech/.nuget/packages/microsoft.aspnetcore.openapi/10.0.8/microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "/Users/astech/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

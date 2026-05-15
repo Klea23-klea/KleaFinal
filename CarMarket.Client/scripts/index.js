@@ -11,7 +11,7 @@ const carImages = [
 async function loadCars() {
 
 	const response = await fetch(
-		"http://localhost:3000/api/cars"
+		"http://localhost:5091/api/cars"
 	);
 
 	const cars = await response.json();
@@ -65,7 +65,7 @@ async function loadCars() {
 async function removeCar(id) {
 
 	await fetch(
-		`http://localhost:3000/api/cars/${id}`,
+		`http://localhost:5091/api/cars/${id}`,
 		{
 			method: "DELETE"
 		}

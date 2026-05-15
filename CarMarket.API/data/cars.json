@@ -1,20 +1,14 @@
 [
   {
-    "id": 1778706554309,
-    "brand": "Peugoet",
-    "model": "2454",
-    "price": "24234"
+    "Id": 1,
+    "Brand": "Benz",
+    "Model": "test",
+    "Price": 3000
   },
   {
-    "id": 1778707974583,
-    "brand": "FRi",
-    "model": "4234",
-    "price": "5000"
-  },
-  {
-    "id": 1778708003376,
-    "brand": "Tesla",
-    "model": "39234",
-    "price": "5000"
+    "Id": 2,
+    "Brand": "benz",
+    "Model": "benz ",
+    "Price": 3000
   }
 ]

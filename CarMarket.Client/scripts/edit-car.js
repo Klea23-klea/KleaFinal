@@ -9,7 +9,7 @@ const form =
 async function loadCar() {
 
 	const response = await fetch(
-		"http://localhost:3000/api/cars"
+		"http://localhost:5091/api/cars"
 	);
 
 	const cars = await response.json();
